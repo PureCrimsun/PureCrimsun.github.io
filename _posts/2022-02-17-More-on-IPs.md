@@ -67,11 +67,16 @@ Using VLSM, we completely ignore all of the default subnet masks
 
 11111111.11111111.111111-00.00000000 (255.255.252.0) Subnet
 11000000.10101000.000000-01.00000001 (192.168.1.1) IP
+
+
+11111111.11000000.00000000.00000000 (255.192.0.0)
 ![VLSM pic](https://user-images.githubusercontent.com/99808189/154563956-6b8490ec-8f43-4a24-ac06-f59b2f3d55e3.PNG)
 
 
+![IP classes](https://user-images.githubusercontent.com/99808189/154567298-f2704790-13b5-42c5-85e3-d0030f06ae77.PNG)
 
 
+![subnetting short cut](https://user-images.githubusercontent.com/99808189/154567490-03989b7e-cebb-47a3-99b7-3ecfe6bd21ae.PNG)
 
 
 
